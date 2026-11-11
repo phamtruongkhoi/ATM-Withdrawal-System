@@ -13,5 +13,5 @@ Máy ATM có đầu đọc thẻ, bàn phím, màn hình và máy in hóa đơn.
 Kết nối Bank IS và VISA AS để xác thực và thực hiện giao dịch.
 
 ## Kế hoạch
-4 Sprint, mỗi Sprint 2 tuần, từ 05/10/2026 đến 27/11/2026.
+4 Sprint, mỗi Sprint 2 tuần, từ 19/09/2026 đến 14/11/2026.
 Quản lý bằng Milestone, Label, Issue trên GitHub.
